@@ -20,11 +20,9 @@
 This project is an **AI-powered Personal Voice Assistant** that can:
 🎧 Play songs from YouTube
 📰 Fetch the latest news headlines
-💬 Answer general knowledge questions like *"What is Quantum Physics?"*
+💬 Tells you what the weather today 
 🗣 Speak responses aloud using **gTTS**
 🐍 Fully built in **Python** & runs on **Google Colab**
-
-![Assistant Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzIwbDJ2NmxnOHIybXJ5ZXJpN2lsdHdxcDljZm9vOWhuYnpoN3I5cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jnJr2lhy1v4K1h6eF5/giphy.gif)
 
 ---
 
@@ -39,7 +37,6 @@ This project is an **AI-powered Personal Voice Assistant** that can:
 **Week 2**
 
 * 🔹 Integrated **News API** for headlines
-* 🔹 Added **ChatGPT API** for general Q\&A
 * 🔹 Finalized project & recorded demo video
 
 ---
@@ -48,7 +45,7 @@ This project is an **AI-powered Personal Voice Assistant** that can:
 
 ✅ Play music from YouTube 🎶
 ✅ Fetch top 3 latest news headlines 📰
-✅ Answer general questions instantly 💡
+✅ Tells u about the city's weather too 💡
 ✅ Speak answers in natural voice 🗣
 ✅ Runs completely in Google Colab 💻
 
